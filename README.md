@@ -37,5 +37,5 @@ brew install python@2
 as the python bundled with catalina may have issues with ssl certs.
 
 
-# deploy local 
+# deploy on local envoy
 
